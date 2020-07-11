@@ -9,7 +9,7 @@
   
   :clipboard: Technical Skills:
   
-  `HTML, CSS, JavaScript, SQL, Bootstrap, Node.js, Express.js, React.js, JQuery, MongoDB, Unit Testing, PWGs, and AJAX`
+  `HTML, CSS, JavaScript, MySQL, Bootstrap, Node.js, Express.js, React.js, JQuery, MongoDB, Unit Testing, PWGs, and AJAX`
 
    
 - 🌱 I’m currently learning ...
