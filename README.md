@@ -27,7 +27,7 @@
   Copy of my Resume: :scroll: https://docs.google.com/document/d/1nHbvtAf2ocPFz7yP8Sr8DLAQFcXk-KlLh-mxLlfFT8Q/edit?usp=sharing
  
   
-- 😄 Pronouns: ...
+- :smiley: Pronouns: ...
 
   He/Him
   
