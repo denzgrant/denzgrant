@@ -41,4 +41,3 @@
   
   :pisces: Loves the beach :surfer:
   
-  <img src="https://res.cloudinary.com/dorlj0gtw/image/upload/v1594420764/20170902_120444_btfoql.jpg">
