@@ -37,7 +37,5 @@
   
   :headphones: Loves music 
   
-  Have a salt tooth (Seaweed snacks and sunflower seeds are a must!)
-  
   :pisces: Loves the beach :surfer:
   
