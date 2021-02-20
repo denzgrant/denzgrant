@@ -1,7 +1,7 @@
 ### Hello There! :computer:
   Welcome to my github! 
   
-  I'm a Full-Stack Developer who is currently looking for employment and also to join an exciting team.
+  I'm a software developer who is currently ulitizing Flutter and Dart for mobile development.
   
   I love to learn new things and intrigued by web development and programming.
   
