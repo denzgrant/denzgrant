@@ -9,12 +9,9 @@
   
   :clipboard: Technical Skills:
   
-  `HTML, CSS, JavaScript, MySQL, Bootstrap, Node.js, Express.js, React.js, JQuery, MongoDB, Unit Testing, PWGs, and AJAX`
+  `HTML, CSS, JavaScript, Flutter, Dart, MySQL, Bootstrap, Node.js, Express.js, React.js, JQuery, MongoDB, Unit Testing, PWGs, and AJAX`
 
-   
-- 🌱 I’m currently learning ...
-
-  React.js and improving my JavaScript skills
+ 
   
 - 📫 How to reach me: ...
 
