@@ -19,7 +19,7 @@
 
   :pager: 763.316.9670
   
-  :office: https://www.linkedin.com/in/denzell-grant-10175574/
+  :office: https://www.linkedin.com/in/denzell-grant-he-his-10175574/
   
   Copy of my Resume: :scroll: https://docs.google.com/document/d/1nHbvtAf2ocPFz7yP8Sr8DLAQFcXk-KlLh-mxLlfFT8Q/edit?usp=sharing
  
