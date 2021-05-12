@@ -1,7 +1,7 @@
 ### Hello There! :computer:
   Welcome to my github! 
   
-  I'm a software developer who is currently ulitizing Flutter and Dart for mobile development.
+  I'm a software developer who is currently ulitizing Flutter and Dart for mobile development and React.js for web development. 
   
   I love to learn new things and intrigued by web development and programming.
   
