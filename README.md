@@ -21,6 +21,7 @@ Experienced Software Developer with over 2 years of experience designing and dev
   :pager: 763.316.9670
   
   :office: [https://www.linkedin.com/in/denzell-grant-he-his-10175574/](https://www.linkedin.com/in/denzell-grant-10175574/)
+  ⛰️ https://www.salesforce.com/trailblazer/dgrant2020
   
   Copy of my Resume: :scroll: [https://docs.google.com/document/d/1nHbvtAf2ocPFz7yP8Sr8DLAQFcXk-KlLh-mxLlfFT8Q/edit?usp=sharing](https://docs.google.com/document/d/1F3woolC7YVlLHvGpmVVcktWiz4Zb9JrWXvfAWtG2D3A/edit?usp=sharing)
  
