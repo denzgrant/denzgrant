@@ -1,7 +1,8 @@
 ### Hello There! :computer:
   Welcome to my github! 
   
-  I'm a software developer who is currently ulitizing Flutter and Dart for mobile development and React.js for web development. 
+Experienced Software Developer with over 2 years of experience designing and developing custom solutions to meet business needs. Proficient in Apex, Visualforce, JavaScript, and integrations with third-party systems, including REST API. Skilled in collaborating with cross-functional teams to ensure timely and efficient delivery of projects. Committed to staying up-to-date with the latest Salesforce technologies and continuously improving processes to drive business success.
+
   
   I love to learn new things and intrigued by web development and programming.
   
@@ -19,9 +20,9 @@
 
   :pager: 763.316.9670
   
-  :office: https://www.linkedin.com/in/denzell-grant-he-his-10175574/
+  :office: [https://www.linkedin.com/in/denzell-grant-he-his-10175574/](https://www.linkedin.com/in/denzell-grant-10175574/)
   
-  Copy of my Resume: :scroll: https://docs.google.com/document/d/1nHbvtAf2ocPFz7yP8Sr8DLAQFcXk-KlLh-mxLlfFT8Q/edit?usp=sharing
+  Copy of my Resume: :scroll: [https://docs.google.com/document/d/1nHbvtAf2ocPFz7yP8Sr8DLAQFcXk-KlLh-mxLlfFT8Q/edit?usp=sharing](https://docs.google.com/document/d/1F3woolC7YVlLHvGpmVVcktWiz4Zb9JrWXvfAWtG2D3A/edit?usp=sharing)
  
   
 - :smiley: Pronouns: ...
