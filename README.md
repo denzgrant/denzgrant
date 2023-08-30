@@ -10,7 +10,7 @@ Experienced Software Developer with over 2 years of experience designing and dev
   
   :clipboard: Technical Skills:
   
-  `HTML, CSS, JavaScript, Flutter, Dart, MySQL, Bootstrap, Node.js, Express.js, React.js, JQuery, MongoDB, Unit Testing, PWGs, and AJAX`
+  `HTML, CSS, JavaScript, Flutter, Dart, APEX, Lightning Web Components, Visualforce, Aura, SOQL, React.js`
 
  
   
