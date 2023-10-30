@@ -1,7 +1,7 @@
 ### Hello There! :computer:
   Welcome to my github! 
   
-Experienced Software Developer with over 2 years of experience designing and developing custom solutions to meet business needs. Proficient in Apex, Visualforce, JavaScript, and integrations with third-party systems, including REST API. Skilled in collaborating with cross-functional teams to ensure timely and efficient delivery of projects. Committed to staying up-to-date with the latest Salesforce technologies and continuously improving processes to drive business success.
+Experienced Salesforce Developer proficient in Apex, Visualforce, JavaScript. Skilled in collaborating with cross-functional teams to ensure timely and efficient delivery of projects. Committed to staying up-to-date with the latest Salesforce technologies and continuously improving processes to drive business success.
 
   
   I love to learn new things and intrigued by web development and programming.
