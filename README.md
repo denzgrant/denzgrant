@@ -24,7 +24,7 @@ Experienced Salesforce Developer proficient in Apex, Visualforce, JavaScript. Sk
   
   :mountain: https://www.salesforce.com/trailblazer/dgrant2020
   
-  Copy of my Resume: :scroll: [https://docs.google.com/document/d/1nHbvtAf2ocPFz7yP8Sr8DLAQFcXk-KlLh-mxLlfFT8Q/edit?usp=sharing](https://docs.google.com/document/d/1F3woolC7YVlLHvGpmVVcktWiz4Zb9JrWXvfAWtG2D3A/edit?usp=sharing)
+  Copy of my Resume: :scroll: [https://docs.google.com/document/d/e/2PACX-1vROirRGhhH-bJdTNVkVEIWH48PGaJU57QOHLQE8ITRgKkbxTIJ0lo0i_yfo9ay0CgqNnbJrht-TT5rA/pub]([https://docs.google.com/document/d/1F3woolC7YVlLHvGpmVVcktWiz4Zb9JrWXvfAWtG2D3A/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vROirRGhhH-bJdTNVkVEIWH48PGaJU57QOHLQE8ITRgKkbxTIJ0lo0i_yfo9ay0CgqNnbJrht-TT5rA/pub))
  
   
 - :smiley: Pronouns: ...
